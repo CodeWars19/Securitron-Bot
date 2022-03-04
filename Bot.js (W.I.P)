@@ -2,8 +2,8 @@ const Discord = require("discord.js")
 const npm = require("npm")
 const client = new Discord.Client()
 const ytdl = require("ytdl-core")
-var badwords = ['Fuck', 'FUCK', 'Fucking', 'Asshole', 'Shit', 'SHIT', 'Bitch', 'Ass', 'Dick', 'Bastard', 'fuck', 'fucking', 'asshole', 'shit', 'bitch', 'dick', 'ass', 'bastard']
-// This bot will give warnings to those who cuss!
+var badwords = []
+// Insert a list of curse words in this list and the bot will warnings those who swear!
 var cscore = 0
 var pscore = 0
 var chit = 0
