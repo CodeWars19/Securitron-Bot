@@ -208,4 +208,4 @@ client.on("message", msg => {
             break;
     }
 })
-client.login("NzIzMjI2MTI4MTY4Mzg2NjAy.Xuujpw.7rVm2rNzOmuMSNq7ngYNSZ-2eoA")
+client.login("insert bot token here")
