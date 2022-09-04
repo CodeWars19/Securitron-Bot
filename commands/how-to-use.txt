@@ -1,1 +1,11 @@
+Here is a list of the current commands and what each command does:
 
+!help - provides a list of commands to use
+!info - says something random from Fallout New Vegas
+!blackjack - starts a game of blackjack with you
+!slots - plays a slot machine
+!kick [member name] - kicks that member if the user who types the command has admin permissions 
+!ban [member name] - bans that member if the user who types the command has admin permissions 
+!play [youtube link] - joins a voice channel that the user is in and plays the video associated with the youtube link 
+!skip - skips current video
+!stop - deletes all videos in queue
