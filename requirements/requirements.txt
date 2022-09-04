@@ -1,0 +1,5 @@
+npm install -g npm@7
+
+npm install discord.js
+
+npm install ytdl
